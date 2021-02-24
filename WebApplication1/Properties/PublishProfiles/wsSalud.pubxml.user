@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\JBOLIVAR\Servicio Salud\Publicados\16-10-19</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AccesoDatos.dll">
+      <publishTime>10/16/2019 12:18:02</publishTime>
+    </File>
+    <File Include="bin/Entidades.dll">
+      <publishTime>10/16/2019 12:18:00</publishTime>
+    </File>
+    <File Include="bin/LogicaNegocio.dll">
+      <publishTime>10/16/2019 12:18:05</publishTime>
+    </File>
+    <File Include="bin/NativeExcel.dll">
+      <publishTime>03/14/2014 15:34:39</publishTime>
+    </File>
+    <File Include="bin/NLog.dll">
+      <publishTime>08/29/2017 10:35:24</publishTime>
+    </File>
+    <File Include="bin/Oracle.DataAccess.dll">
+      <publishTime>02/28/2010 02:19:56</publishTime>
+    </File>
+    <File Include="bin/UtilitarioJO.dll">
+      <publishTime>02/06/2013 11:08:46</publishTime>
+    </File>
+    <File Include="bin/Utilitarios.dll">
+      <publishTime>10/16/2019 12:18:00</publishTime>
+    </File>
+    <File Include="bin/wsEmpresa.dll">
+      <publishTime>01/24/2018 18:14:44</publishTime>
+    </File>
+    <File Include="bin/wsSalud.dll">
+      <publishTime>10/16/2019 12:18:06</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/19/2017 14:59:16</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/16/2019 12:18:08</publishTime>
+    </File>
+    <File Include="wsEmpresa.asmx">
+      <publishTime>10/05/2017 10:30:50</publishTime>
+    </File>
+    <File Include="wsSalud.asmx">
+      <publishTime>01/31/2018 17:48:51</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
