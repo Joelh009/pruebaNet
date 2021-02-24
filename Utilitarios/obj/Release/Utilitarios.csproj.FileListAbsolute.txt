@@ -1,0 +1,49 @@
+D:\wsSalud\Utilitarios\bin\Release\Utilitarios.dll
+D:\wsSalud\Utilitarios\bin\Release\Utilitarios.pdb
+D:\wsSalud\Utilitarios\bin\Release\NLog.dll
+D:\wsSalud\Utilitarios\bin\Release\UtilitarioJO.dll
+D:\wsSalud\Utilitarios\obj\Release\Utilitarios.csprojResolveAssemblyReference.cache
+D:\wsSalud\Utilitarios\obj\Release\Utilitarios.dll
+D:\wsSalud\Utilitarios\obj\Release\Utilitarios.pdb
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\bin\Release\Utilitarios.dll
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\bin\Release\Utilitarios.pdb
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\bin\Release\NLog.dll
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\bin\Release\UtilitarioJO.dll
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\obj\Release\Utilitarios.csprojResolveAssemblyReference.cache
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\obj\Release\Utilitarios.dll
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\obj\Release\Utilitarios.pdb
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\bin\Release\Utilitarios.dll
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\bin\Release\Utilitarios.pdb
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\bin\Release\NLog.dll
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\bin\Release\UtilitarioJO.dll
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\obj\Release\Utilitarios.csprojResolveAssemblyReference.cache
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\obj\Release\Utilitarios.dll
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\Utilitarios\obj\Release\Utilitarios.pdb
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\Utilitarios\bin\Release\Utilitarios.dll
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\Utilitarios\bin\Release\Utilitarios.pdb
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\Utilitarios\bin\Release\NLog.dll
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\Utilitarios\bin\Release\UtilitarioJO.dll
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\Utilitarios\obj\Release\Utilitarios.csprojResolveAssemblyReference.cache
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\Utilitarios\obj\Release\Utilitarios.dll
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\Utilitarios\obj\Release\Utilitarios.pdb
+C:\wsSalud\Utilitarios\bin\Release\Utilitarios.dll
+C:\wsSalud\Utilitarios\bin\Release\Utilitarios.pdb
+C:\wsSalud\Utilitarios\bin\Release\NLog.dll
+C:\wsSalud\Utilitarios\bin\Release\UtilitarioJO.dll
+C:\wsSalud\Utilitarios\obj\Release\Utilitarios.csprojResolveAssemblyReference.cache
+C:\wsSalud\Utilitarios\obj\Release\Utilitarios.dll
+C:\wsSalud\Utilitarios\obj\Release\Utilitarios.pdb
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\Utilitarios\bin\Release\Utilitarios.dll
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\Utilitarios\bin\Release\Utilitarios.pdb
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\Utilitarios\bin\Release\NLog.dll
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\Utilitarios\bin\Release\UtilitarioJO.dll
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\Utilitarios\obj\Release\Utilitarios.csprojResolveAssemblyReference.cache
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\Utilitarios\obj\Release\Utilitarios.dll
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\Utilitarios\obj\Release\Utilitarios.pdb
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\Utilitarios\bin\Release\Utilitarios.dll
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\Utilitarios\bin\Release\Utilitarios.pdb
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\Utilitarios\bin\Release\NLog.dll
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\Utilitarios\bin\Release\UtilitarioJO.dll
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\Utilitarios\obj\Release\Utilitarios.csprojResolveAssemblyReference.cache
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\Utilitarios\obj\Release\Utilitarios.dll
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\Utilitarios\obj\Release\Utilitarios.pdb

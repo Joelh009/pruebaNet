@@ -1,0 +1,84 @@
+D:\wsSalud\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+D:\wsSalud\AccesoDatos\bin\Release\AccesoDatos.dll
+D:\wsSalud\AccesoDatos\bin\Release\AccesoDatos.pdb
+D:\wsSalud\AccesoDatos\bin\Release\Entidades.dll
+D:\wsSalud\AccesoDatos\bin\Release\NLog.dll
+D:\wsSalud\AccesoDatos\bin\Release\Utilitarios.dll
+D:\wsSalud\AccesoDatos\bin\Release\UtilitarioJO.dll
+D:\wsSalud\AccesoDatos\bin\Release\Entidades.pdb
+D:\wsSalud\AccesoDatos\bin\Release\Utilitarios.pdb
+D:\wsSalud\AccesoDatos\obj\Release\AccesoDatos.dll
+D:\wsSalud\AccesoDatos\obj\Release\AccesoDatos.pdb
+D:\wsSalud\AccesoDatos\bin\Release\Oracle.DataAccess.dll
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\Entidades.dll
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\NLog.dll
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\Oracle.DataAccess.dll
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\Utilitarios.dll
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\UtilitarioJO.dll
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\Entidades.pdb
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\Utilitarios.pdb
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\obj\Release\AccesoDatos.pdb
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\AccesoDatos.dll
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\AccesoDatos.pdb
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\Entidades.dll
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\NLog.dll
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\Oracle.DataAccess.dll
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\Utilitarios.dll
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\UtilitarioJO.dll
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\Entidades.pdb
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\bin\Release\Utilitarios.pdb
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\obj\Release\AccesoDatos.dll
+E:\Frankli Tello\Proyecto de Cotizacion y Emision de SALUD\Fuentes\wsSalud\AccesoDatos\obj\Release\AccesoDatos.pdb
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\AccesoDatos\bin\Release\AccesoDatos.dll
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\AccesoDatos\bin\Release\AccesoDatos.pdb
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\AccesoDatos\bin\Release\Entidades.dll
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\AccesoDatos\bin\Release\NLog.dll
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\AccesoDatos\bin\Release\Oracle.DataAccess.dll
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\AccesoDatos\bin\Release\Utilitarios.dll
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\AccesoDatos\bin\Release\UtilitarioJO.dll
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\AccesoDatos\bin\Release\Entidades.pdb
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\AccesoDatos\bin\Release\Utilitarios.pdb
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\AccesoDatos\obj\Release\AccesoDatos.dll
+\\ppe002001-678\SVN\FUENTES\wsSalud\wsSalud 20180511\wsSalud\AccesoDatos\obj\Release\AccesoDatos.pdb
+C:\wsSalud\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\wsSalud\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\wsSalud\AccesoDatos\bin\Release\Entidades.dll
+C:\wsSalud\AccesoDatos\bin\Release\NLog.dll
+C:\wsSalud\AccesoDatos\bin\Release\Oracle.DataAccess.dll
+C:\wsSalud\AccesoDatos\bin\Release\Utilitarios.dll
+C:\wsSalud\AccesoDatos\bin\Release\UtilitarioJO.dll
+C:\wsSalud\AccesoDatos\bin\Release\Entidades.pdb
+C:\wsSalud\AccesoDatos\bin\Release\Utilitarios.pdb
+C:\wsSalud\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\wsSalud\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\wsSalud\AccesoDatos\obj\Release\AccesoDatos.pdb
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\AccesoDatos\bin\Release\AccesoDatos.dll
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\AccesoDatos\bin\Release\AccesoDatos.pdb
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\AccesoDatos\bin\Release\Entidades.dll
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\AccesoDatos\bin\Release\NLog.dll
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\AccesoDatos\bin\Release\Oracle.DataAccess.dll
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\AccesoDatos\bin\Release\Utilitarios.dll
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\AccesoDatos\bin\Release\UtilitarioJO.dll
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\AccesoDatos\bin\Release\Entidades.pdb
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\AccesoDatos\bin\Release\Utilitarios.pdb
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\AccesoDatos\obj\Release\AccesoDatos.dll
+D:\PBARRIOS\PBARRIOS\PROMGRAMAS MAPFRE - APLICATIVOS\APLICACIONES\wsSALUD\FUENTES\wsSalud\AccesoDatos\obj\Release\AccesoDatos.pdb
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\AccesoDatos\bin\Release\AccesoDatos.dll
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\AccesoDatos\bin\Release\AccesoDatos.pdb
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\AccesoDatos\bin\Release\Entidades.dll
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\AccesoDatos\bin\Release\NLog.dll
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\AccesoDatos\bin\Release\Oracle.DataAccess.dll
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\AccesoDatos\bin\Release\Utilitarios.dll
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\AccesoDatos\bin\Release\UtilitarioJO.dll
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\AccesoDatos\bin\Release\Entidades.pdb
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\AccesoDatos\bin\Release\Utilitarios.pdb
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\AccesoDatos\obj\Release\AccesoDatos.dll
+D:\JBOLIVAR\Servicio Salud\Fuentes\ULTIMAS\wsSalud\AccesoDatos\obj\Release\AccesoDatos.pdb
